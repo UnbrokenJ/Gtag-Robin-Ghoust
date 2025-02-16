@@ -3,5 +3,6 @@ This repository will contain the code used for the gorilla tag ghost robin, feel
 # Requirements
 You have to have the mods Walkssim, and II's stupid menu.
 Your Computer has to have GTAG already installed as well as python in order for it to interact.
-# Note
+# Notes
 Robin's AI was coded by an AI, as well as an idiot aka me, so the code will mostly take controll of your computer don't be alarmed any questions on the working of it will be on the youtube link PASTE HERE WHEN REALSED.
+Put the sound file into the modded menu, and if the code ever stops working comment me so I can proffesional fix my code, or do some DIY.
